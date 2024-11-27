@@ -11,6 +11,7 @@
        CONFIGURATION SECTION.
        SOURCE-COMPUTER. IBM-FLEX-ES.
        OBJECT-COMPUTER. IBM-FLEX-ES.
+       
       *
        DATA DIVISION.
        WORKING-STORAGE SECTION.
@@ -21,7 +22,7 @@
                88  SEND-DATAONLY                VALUE '2'.
                88  SEND-MAPONLY                 VALUE '3'.
                88  SEND-DATAONLY-ALARM          VALUE '4'.
-               88  SEND-ALL                     VALUE '5'.
+               88  SEND-ALL                     VALUE '6'.
 
        01 W-CONVERSIONS.
            05  W-PMT-CNVRT     PIC X(12).
