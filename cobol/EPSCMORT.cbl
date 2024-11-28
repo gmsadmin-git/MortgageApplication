@@ -21,7 +21,7 @@
                88  SEND-ERASE                   VALUE '3'.
                88  SEND-DATAONLY                VALUE '6'.
                88  SEND-MAPONLY                 VALUE '34'.
-               88  SEND-DATAONLY-ALARM          VALUE '11'.
+               88  SEND-DATAONLY-ALARM          VALUE '14'.
                88  SEND-ALL                     VALUE '10'.
 
        01 W-CONVERSIONS.
