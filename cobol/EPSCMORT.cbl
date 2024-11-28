@@ -22,7 +22,7 @@
                88  SEND-DATAONLY                VALUE '2'.
                88  SEND-MAPONLY                 VALUE '3'.
                88  SEND-DATAONLY-ALARM          VALUE '4'.
-               88  SEND-ALL                     VALUE '8'.
+               88  SEND-ALL                     VALUE '9'.
 
        01 W-CONVERSIONS.
            05  W-PMT-CNVRT     PIC X(12).
