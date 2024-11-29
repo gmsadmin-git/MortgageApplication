@@ -18,7 +18,7 @@
 
        01  STATIC-CALLED-PROGRAMS.
            03 STATIC-CALLED-PROGRAM-TABLE.
-              05 FILLER            PIC X(8) VALUE 'EPSMPMT'.
+              05 FILLER            PIC X(10) VALUE 'EPSMPMT'.
               05 FILLER            PIC X(8) VALUE 'NOT VLD'.
               05 FILLER            PIC X(8) VALUE ' '.
            03 CALLED-PROGRAM-TABLE
