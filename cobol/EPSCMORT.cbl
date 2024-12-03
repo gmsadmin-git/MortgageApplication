@@ -1,7 +1,7 @@
        ID DIVISION.
        PROGRAM-ID. EPSCMORT.
       *    THIS DEMONSTRATES CICS/DEBUG           - EPSDEMOS 2008
-      * Jayesh demo testing900
+      * Jayesh demo testing1000
       *    THIS PROGRAM WILL RECEIVE A DATE AND COVERT THE DATE TO
       *    AN INTEGER IN A CALLED PROGRAM TO DETERMINE DAYS FROM
       *    CURRENT DATE.
