@@ -3,5 +3,5 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'Hi Trisha Welcome to GMS'.
+           DISPLAY 'testing Jenkins'.
            STOP RUN.
