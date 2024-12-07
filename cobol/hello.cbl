@@ -3,5 +3,5 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'Hello Welcome to GMS-testing jenkins3'.
+           DISPLAY 'testing impactbuild'.
            STOP RUN.
