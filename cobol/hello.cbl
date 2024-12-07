@@ -3,5 +3,5 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'testing impactbuild1'.
+           DISPLAY 'testing impactbuild2'.
            STOP RUN.
