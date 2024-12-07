@@ -3,5 +3,5 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'testing Jenkins chatbot feature/TestDemo jenkins1'.
+           DISPLAY 'testing Jenkins chatbot feature/TestDemo jenkins'.
            STOP RUN.
