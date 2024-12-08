@@ -3,5 +3,5 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'testing jenkins testing'.
+           DISPLAY 'testing only hello'.
            STOP RUN.
