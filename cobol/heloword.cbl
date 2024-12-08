@@ -2,5 +2,5 @@
        PROGRAM-ID. HELOWORD.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO IKAN FROM DBB'.           
+           DISPLAY 'Hello Jenkins main build'.           
            STOP RUN.
