@@ -3,5 +3,5 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'hello Dhanesh1'.
+           DISPLAY 'hello Dhanesh'.
            STOP RUN.
