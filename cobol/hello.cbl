@@ -3,8 +3,8 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'hello trishaaaaaa bhava  Aravindh poda mayiru'.
-           STOP RUN...
-           s
+           DISPLAY 'hello testing'.
+           STOP RUN.
+           
           
 
