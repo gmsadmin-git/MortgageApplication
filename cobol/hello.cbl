@@ -3,7 +3,7 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'hello trishaaaaaa bhava  Aravindh poda '.
+           DISPLAY 'hello trishaaaaaa bhava  Aravindh poda mayiru'.
            STOP RUN...
            s
           
