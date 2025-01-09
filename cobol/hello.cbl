@@ -3,7 +3,7 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'hello testing trishaaaaaa Bhavaaaaaaaaa'.
+           DISPLAY 'Bhava Testing'.
            STOP RUN.
            
           
