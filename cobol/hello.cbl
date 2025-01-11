@@ -3,7 +3,9 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'frontend_testing_jan11_today'.
+
+           DISPLAY 'Bhava Testing frontend'.
+
            STOP RUN.
            
           
