@@ -3,7 +3,7 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'Bhava Testing the committttttt'.
+           DISPLAY 'Bhava Testing the committ'.
            STOP RUN.
            
           
