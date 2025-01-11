@@ -3,7 +3,7 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'Bhava the jan 11'.
+           DISPLAY 'Bhava  jan 11'.
            STOP RUN.
            
           
