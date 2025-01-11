@@ -4,7 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'testing'.
+           DISPLAY 'testing_mainframe_automation'.
 
            STOP RUN.
            
