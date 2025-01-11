@@ -4,7 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'Bhava Testing frontend trisha cyril akshay poda dash priya '.
+           DISPLAY 'testing'.
 
            STOP RUN.
            
