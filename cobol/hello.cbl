@@ -3,7 +3,7 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'Bhava and ragu testing the front-end'.
+           DISPLAY 'Bhava and ragu testing the'.
            STOP RUN.
            
           
