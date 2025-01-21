@@ -4,7 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'testing_mainframe_automation_jan16_2025'.
+           DISPLAY 'testing_mainframe_automation_jan20_2025'.
 
            STOP RUN.
            
