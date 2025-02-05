@@ -9,3 +9,4 @@
 000503                                        PIC X(12).
 000600     03 MORT-FILE-YEARS                 PIC 9(2).
       * Comment 4
+      * comment 5
