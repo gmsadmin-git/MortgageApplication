@@ -2,5 +2,5 @@
        PROGRAM-ID. HELOWORD.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'Hello Dhanesh1'.           
+           DISPLAY 'Hello Dhanesh'.           
            STOP RUN.
