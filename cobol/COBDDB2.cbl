@@ -5,7 +5,7 @@
 
          01  WS-SQLREAD           PIC X(1).
       *** IKAN DEMO with DBB with IKAN Phases *** 
-      *** INCLUDING SQLCA COPYBOOK *******
+      *** INCLUDING SQLCA COPYBOOK ******
            EXEC SQL
                 INCLUDE SQLCA
            END-EXEC.
