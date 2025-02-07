@@ -2,5 +2,5 @@
        PROGRAM-ID. HELOWORD.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'Hello Paul from VMImage test 2'.           
+           DISPLAY 'Hello Paul from VMImage test 3'.           
            STOP RUN.
