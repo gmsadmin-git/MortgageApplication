@@ -4,10 +4,8 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'testing_mainframe'.
-           DISPLAY 'testaiboatjenkinsaiboat'.
-
-
+           DISPLAY 'testing_mainframe-testaiboat'.
+           
            STOP RUN.
 
 
