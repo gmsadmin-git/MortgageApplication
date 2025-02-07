@@ -5,7 +5,7 @@
        PROCEDURE DIVISION.
 
            DISPLAY 'testing_mainframe'.
-           DISPLAY 'testaiboatjenkins'.
+           DISPLAY 'testaiboatjenkinsaiboat'.
 
 
            STOP RUN.
