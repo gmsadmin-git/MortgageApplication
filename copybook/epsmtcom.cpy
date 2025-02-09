@@ -2,5 +2,5 @@
 
           COPY EPSMTINP.
           COPY EPSMTOUT.
-          COPY MYCOPY.
+      *    COPY MYCOPY.
       * Comment impact build test
