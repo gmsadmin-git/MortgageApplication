@@ -1,4 +1,4 @@
-          10  PROCESS-INDICATOR               PIC X(3).
+          10  PROCESS-INDICATOR               PIC X.
 
           COPY EPSMTINP.
           COPY EPSMTOUT.
