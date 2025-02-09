@@ -60,7 +60,7 @@
            COPY DFHAID.
       *    COPY DFHEIBLK.
            COPY EPSMORT.
-           COPY MYCOPY.
+      *     COPY MYCOPY.
 
        01  W-COMMUNICATION-AREA.
            COPY EPSMTCOM.
