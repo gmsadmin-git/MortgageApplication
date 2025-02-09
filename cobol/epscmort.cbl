@@ -73,9 +73,9 @@
        COPY EPSMTCOM.
 
        PROCEDURE DIVISION USING DFHCOMMAREA.
-           DISPLAY "Company: " COMPANY-NAME.
-           DISPLAY "Founded: " YEAR-FOUNDED.
-           DISPLAY WELCOME-MSG.
+      *     DISPLAY "Company: " COMPANY-NAME.
+      *     DISPLAY "Founded: " YEAR-FOUNDED.
+      *     DISPLAY WELCOME-MSG.
 
        EPSCMORT-MAINLINE.
       * Call procedure to do SQL call
