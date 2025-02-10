@@ -5,7 +5,7 @@
        PROCEDURE DIVISION.
 
            DISPLAY 'testing_mainframe6byhfurffdvggvnrj'.
-           DISPLAY 'testing_mainframe123r'.
+           DISPLAY 'testing_mainframe123r5t'.
 
 
            STOP RUN.
