@@ -4,7 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'testing multiple'.
+           DISPLAY 'testing multipledd'.
            STOP RUN.
 
 
