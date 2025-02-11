@@ -5,7 +5,7 @@
        PROCEDURE DIVISION.
 
            DISPLAY 'testingmultiplefiles'.
-           DISPLAY 'testing_mainframe123r5tgb'.
+           DISPLAY 'testing multiplefilesagain'.
 
 
            STOP RUN.
