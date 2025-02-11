@@ -4,7 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY '/tmp/appWorkspace/Developmentsow1'.
+           DISPLAY 'buildlist'.
            STOP RUN.
 
 
