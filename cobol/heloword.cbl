@@ -2,5 +2,5 @@
        PROGRAM-ID. HELOWORD.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'testing multipledd'.           
+           DISPLAY '/tmp/appWorkspace/Development'.           
            STOP RUN.
