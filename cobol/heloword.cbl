@@ -2,5 +2,5 @@
        PROGRAM-ID. HELOWORD.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY '/tmp/appWorkspace/Developmentsow1'.           
+           DISPLAY '/tmp/appWorkspace/Developmenttestbuildfile'.           
            STOP RUN.
