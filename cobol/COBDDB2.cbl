@@ -4,7 +4,7 @@
          WORKING-STORAGE SECTION.
 
          01  WS-SQLREAD           PIC X(1).
-      *** AI DEMO*** 
+      *** buildfilelist*** 
       *** INCLUDING SQLCA test ******
            EXEC SQL
                 INCLUDE SQLCA
