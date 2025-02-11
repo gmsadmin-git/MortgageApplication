@@ -4,10 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'testingmultiplefiles'.
-           DISPLAY 'testing multiplefilesagain'.
-
-
+           DISPLAY 'testing ratnam'.
            STOP RUN.
 
 
