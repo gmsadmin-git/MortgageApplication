@@ -2,5 +2,5 @@
        PROGRAM-ID. HELOWORD.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'testing ratnam1'.           
+           DISPLAY 'testing multiple'.           
            STOP RUN.
