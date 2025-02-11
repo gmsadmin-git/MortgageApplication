@@ -2,5 +2,5 @@
        PROGRAM-ID. HELOWORD.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'testing multiple'.           
+           DISPLAY 'testing multipledd'.           
            STOP RUN.
