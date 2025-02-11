@@ -2,5 +2,5 @@
        PROGRAM-ID. HELOWORD.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'buildlist'.           
+           DISPLAY 'buildlist2'.           
            STOP RUN.
