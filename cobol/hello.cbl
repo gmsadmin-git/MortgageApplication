@@ -4,7 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'testing ratnam'.
+           DISPLAY 'testing multiple'.
            STOP RUN.
 
 
