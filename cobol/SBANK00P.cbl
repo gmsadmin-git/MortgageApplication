@@ -18,7 +18,7 @@
       *
        01  W-FLAGS.
            10  W-SEND-FLAG                    PIC X.
-               88  SEND-ERASE                   VALUE '11'.
+               88  SEND-ERASE                   VALUE '12'.
                88  SEND-DATAONLY                VALUE '2'.
                88  SEND-MAPONLY                 VALUE '3'.
                88  SEND-DATAONLY-ALARM          VALUE '4'.
