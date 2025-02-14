@@ -5,7 +5,7 @@
 
          01  WS-SQLREAD           PIC X(1).
 
-      *** INCLUDING SQLCA test ******
+      *** INCLUDING SQLCA changefile ******
            EXEC SQL
                 INCLUDE SQLCA
            END-EXEC.
