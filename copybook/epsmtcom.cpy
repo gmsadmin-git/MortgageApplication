@@ -3,4 +3,4 @@
           COPY EPSMTINP.
           COPY EPSMTOUT.
       *    COPY MYCOPY.
-      * DEMO1
+      * DEMO2
