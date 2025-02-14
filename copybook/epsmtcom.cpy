@@ -2,7 +2,7 @@
 
           COPY EPSMTINP.
           COPY EPSMTOUT.
-      * Comment impact build test
+      * Comment impact build tet
       * impact build test 1
       * impact build test 3
       * impact build test 3
