@@ -3,4 +3,4 @@
           COPY EPSMTINP.
           COPY EPSMTOUT.
       *    COPY MYCOPY.
-      * Comment impact build test
+      * Comment feature/Test-epsmtcom
