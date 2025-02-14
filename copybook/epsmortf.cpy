@@ -8,5 +8,5 @@
 000501     03 MORT-FILE-LOAN-RDF    REDEFINES MORT-FILE-LOAN
 000503                                        PIC X(12).
 000600     03 MORT-FILE-YEARS                 PIC 9(2).
-      * DEMO2
+      * DEMO3
       * comment 6
