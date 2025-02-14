@@ -1,16 +1,12 @@
+
        IDENTIFICATION DIVISION.
        PROGRAM-ID. COBDDB2.
        DATA DIVISION.
          WORKING-STORAGE SECTION.
 
          01  WS-SQLREAD           PIC X(1).
-<<<<<<< HEAD
-      *** IKAN DEMO with DBB with IKAN Phases ***
+      *** IKAN DEMO with DBB with AIBOT Phase *** 
       *** INCLUDING SQLCA COPYBOOK ******
-=======
-      *** buildfilelist3*** 
-      *** INCLUDING SQLCA test ******
->>>>>>> branch 'main' of https://github.com/gmsadmin-git/MortgageApplication.git
            EXEC SQL
                 INCLUDE SQLCA
            END-EXEC.

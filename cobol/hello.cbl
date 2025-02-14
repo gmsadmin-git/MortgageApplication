@@ -4,10 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'testing_mainframe_explaining'.
-           DISPLAY 'testing_mainframe23'.
-
-
+           DISPLAY 'buildlist1'.
            STOP RUN.
 
 
