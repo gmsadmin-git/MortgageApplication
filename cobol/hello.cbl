@@ -5,7 +5,7 @@
        PROCEDURE DIVISION.
 
            DISPLAY 'testin_mainframe'.
-           DISPLAY 'DEMO1'.
+           DISPLAY 'DEMO'.
 
 
            STOP RUN.
