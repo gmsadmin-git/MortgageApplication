@@ -4,7 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'testin_mainframe'.
+           DISPLAY 'feature/test-Demo'.
            DISPLAY 'DEMO'.
 
 
