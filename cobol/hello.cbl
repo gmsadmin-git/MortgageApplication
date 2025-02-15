@@ -4,7 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'testing_mainframe'.
+           DISPLAY 'testing_mainfram'.
            DISPLAY 'testing_mainframe1'.
 
 
