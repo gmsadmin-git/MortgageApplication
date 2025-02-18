@@ -4,7 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'buildlingg'.
+           DISPLAY 'buildling'.
            STOP RUN.
 
 
