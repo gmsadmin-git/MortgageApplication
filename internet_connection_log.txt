@@ -1,0 +1,16 @@
+2025-02-19 01:13:56 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-02-19 01:13:56 - Repository MortgageApplication already exists at C:\Users\Nandhakumar\Desktop\New folder\MortgageApplication
+----------------------------------------
+2025-02-19 01:13:56 - Searching for file 'cobol/hello.cbl' in repository 'C:\Users\Nandhakumar\Desktop\New folder\MortgageApplication'
+----------------------------------------
+2025-02-19 01:13:56 - File 'cobol/hello.cbl' not found in repository 'C:\Users\Nandhakumar\Desktop\New folder\MortgageApplication'
+----------------------------------------
+2025-02-19 01:13:56 - File cobol/hello.cbl not found. Created new file at C:\Users\Nandhakumar\Desktop\New folder\MortgageApplication\cobol/hello.cbl
+----------------------------------------
+2025-02-19 01:13:56 - Currently on branch: main
+----------------------------------------
+2025-02-19 01:13:56 - Checking for untracked files
+----------------------------------------
+2025-02-19 01:13:56 - Staging all changes
+----------------------------------------
