@@ -3,8 +3,5 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-
            DISPLAY 'buildlingg'.
            STOP RUN.
-
-
