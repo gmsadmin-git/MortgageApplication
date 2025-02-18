@@ -4,8 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'buildlingggg'.
+           DISPLAY 'buildlingg'.
            STOP RUN.
-
 
 
