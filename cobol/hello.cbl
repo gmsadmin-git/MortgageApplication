@@ -3,5 +3,5 @@ IDENTIFICATION DIVISION.
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'buildling'.
+           DISPLAY 'buildlings'.
            STOP RUN.
