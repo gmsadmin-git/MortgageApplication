@@ -1,7 +1,18 @@
-IDENTIFICATION DIVISION.
+                                          IDENTIFICATION DIVISION.
        PROGRAM-ID. HELLOo.
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'buildling'.
-           STOP RUN.
+           DISPLAY 'buildling.
+           
+
+
+
+
+
+     
+
+
+
+
+STOP RUN.
