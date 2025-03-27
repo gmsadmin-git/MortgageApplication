@@ -5,7 +5,7 @@
        PROCEDURE DIVISION.
 
            DISPLAY 'testing_mainframe'.
-           DISPLAY 'testing_mainframe12345'.
+           DISPLAY 'testing_mainframe12345 trisha'.
 
 
            STOP RUN.
